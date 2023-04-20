@@ -9,7 +9,7 @@
 ### Setup
 - Create a conda environment with the required packages:
     ```bash
-    conda env create -f environment.yml
+    conda env create -f <path-to-workshop-ds-folder>/environment.yaml
     ```
 
 - Activate the environment:

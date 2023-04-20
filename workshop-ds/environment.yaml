@@ -1,0 +1,14 @@
+name: workshop-ds
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10.10
+  - pip=23.0.1
+  - ydata-profiling=4.1.2
+  - ydata-synthetic=1.1.0
+  - streamlit=1.18.1
+  - typing-extensions=3.10.0
+  - pip:
+    - streamlit_pandas_profiling==0.1.3
+    - ydata-sdk>=0.2.1
