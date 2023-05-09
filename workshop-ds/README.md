@@ -1,12 +1,28 @@
-# Data Science Workshop
+# ODSC Workshop: Data-Centric AI tuning - How and why? 
 
-## Conda Local Environment
+## Data-Centric AI
 
-### Prerequisites
+### The importance of data preparation
+
+### Dataset
+
+### Data Preparation
+
+#### Data Profiling
+
+#### Synthetic data generation
+
+### Data pipelines
+
+## Quickstart
+
+### Conda environment
+
+#### Prerequisites
 
 - [conda](https://conda.io/projects/conda/en/latest/user-guide/install/index.html) (it can either be installed with [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [anaconda](https://www.anaconda.com/download#downloads) but we recommend miniconda)
 
-### Setup
+#### Setup
 
 - Create a conda environment with the required packages:
 
@@ -19,7 +35,7 @@
   conda activate workshop-odsc
   ```
 
-### Cleanup
+#### Cleanup
 
 - Deactivate the environment:
   ```bash
@@ -30,13 +46,13 @@
   conda env remove -n workshop-odsc
   ```
 
-## Conda Docker Environment
+### Conda Docker Environment
 
-### Prerequisites
+#### Prerequisites
 
 - [Docker](https://docs.docker.com/get-docker)
 
-### Run
+#### Run
 
 - Run the docker container:
   ```bash
