@@ -1,18 +1,21 @@
 # ODSC Workshop: Data-Centric AI tuning - How and why? 
 
-## Data-Centric AI
+Get started in Google Colab:
 
-### The importance of data preparation
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ydataai/ydata-synthetic/blob/master/examples/regular/models/CTGAN_Adult_Census_Income_Data.ipynb)
+
+## Data-Centric AI
+*"**Data-Centric AI** is the process of building and testing AI systems by focusing on data-centric operations (i.e cleaning, pre-processing, balancing and augmenting) rather than model-centric operations (ie. hyper-parameters selection, architectural changes,etc)"*
 
 ### Dataset
 
-### Data Preparation
+The dataset used for this workshop is the IEEE-Fraud Detection can be found in [Kaggle](https://www.kaggle.com/c/ieee-fraud-detection).
 
-#### Data Profiling
-
-#### Synthetic data generation
-
-### Data pipelines
+This workshop/tutorial covers the following steps:
+- Data Profiling
+- Data Preparation & iteration
+- Synthetic data generation
+- Data pipelines with Scikit-learn & the importance of data pipelines
 
 ## Quickstart
 
