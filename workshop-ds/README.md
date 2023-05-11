@@ -2,7 +2,7 @@
 
 Get started in Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Data-Centric-AI-Community/awesome-python-for-data-science/tree/main/workshop-ds/Workshop%20-%20Data-Centric%20AI%20pipelines%20-%20How%20and%20why.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Centric-AI-Community/awesome-python-for-data-science/blob/main/workshop-ds/Workshop%20-%20Data-Centric%20AI%20pipelines%20-%20How%20and%20why.ipynb)
 
 ## Data-Centric AI
 *"**Data-Centric AI** is the process of building and testing AI systems by focusing on data-centric operations (i.e cleaning, pre-processing, balancing and augmenting) rather than model-centric operations (ie. hyper-parameters selection, architectural changes,etc)"*
