@@ -48,7 +48,17 @@ Please refer to [this folder](https://github.com/Data-Centric-AI-Community/aweso
 ## 📊 Python for Data Science
 
 ### ❓ Where to Start!
-🚧 WIP
+To learn data science, the CRISP-DM is a good approach:
+
+[CRISP-DM methodology](https://www.datasciencecentral.com/userful-r-packages-that-aligns-with-the-crisp-dm-methodology/)
+
+1. Business/Problem Understanding
+2. 🆕 **Data Understanding:** Start with the EDA Projects in the **Exercises** section below! 🎉
+3. Data Preparation
+4. Modelling
+5. Evaluation
+6. Deployment
+
 
 ### 📚 Awesome Books
 🚧 WIP
@@ -60,7 +70,14 @@ Please refer to [this folder](https://github.com/Data-Centric-AI-Community/aweso
 
 
 ### 🏋🏽‍♀️ Exercises
-🚧 WIP
+
+#### 🕵🏻 Exploratory Data Analysis
+1. [Olympic 124 Years Dataset](eda-projects/olympics): Exploring a dataset of the Olympic Games 
+
+##### 🫂 How to contribute? 
+- Download the project and try to solve it at your own pace!
+- Ask as many questions as you like in our [discord channel #🐍ds-projects](http://discord.com/invite/mw7xjJ7b7s)
+- Share your final project by creating a Pull Request! 👏
 
 
 ### 🔗 Tutorials and Resources
