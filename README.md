@@ -68,6 +68,8 @@ To learn data science, the CRISP-DM is a good approach:
 - [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp): Free Data Engineering course!
 - [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp): Free MLOps course!
 
+### 👩🏽‍🏫 Tutorials
+- [Understanding your data with descriptive statistics](tutorials/data_descriptive_statistics.ipynb)
 
 ### 🏋🏽‍♀️ Exercises
 
@@ -80,7 +82,7 @@ To learn data science, the CRISP-DM is a good approach:
 - Share your final project by creating a Pull Request! 👏
 
 
-### 🔗 Tutorials and Resources
+### 🔗 Resources
 - [50 Data Analysis Projects with Python](https://amankharwal.medium.com/data-analysis-projects-with-python-a262a6f9e68c) - 50 Amazing Data Analysis Projects with Python: solved and explained.
 - [The Insane App: Data Science](https://www.theinsaneapp.com/data-science): Resources, GitHub repos, free books and cheatsheets on Data Science
 - [The Insane App: Machine Learning](https://www.theinsaneapp.com/machine-learning): Resources, GitHub repos, free books and cheatsheets on Machine Learning
