@@ -69,7 +69,9 @@ To learn data science, the CRISP-DM is a good approach:
 - [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp): Free MLOps course!
 
 ### 👩🏽‍🏫 Tutorials
-- [Understanding your data with descriptive statistics](tutorials/data_descriptive_statistics.ipynb)
+- [01 - Understanding your data with descriptive statistics](tutorials/data_descriptive_statistics.ipynb)
+- [02 - Understanding your data visualization](tutorials/data_basic_visualization.ipynb)
+- 03 - Prepare your Data For Machine Learning (👷‍♀️ coming soon!)
 
 ### 🏋🏽‍♀️ Exercises
 
