@@ -12,20 +12,20 @@ This repository was created by our community members to build a curated list of 
 
 **Please feel free to contribute to the repository with useful resources! You may also find us at our [Discord Server](https://discord.gg/mw7xjJ7b7s) to meet other learners, find co-developers or mentors, and engage in small study sessions!**
 
-## 🐍 Python Mastery
+# 🐍 Python Mastery
 
-### ❓ Where to Start!
+## ❓ Where to Start!
 If you're serious about starting your journey as a Pythonista, then you need to start with the basics. As a first approach to the language, we suggest that you start with the book ["How to Think Like a Computer Scientist: Learning with Python 3"](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf) and follow up with the exercises presented in ["Python By Example: Learning to Program in 150 Challenges"](https://library.samdu.uz/download/10759). **All exercises in the latter book have solutions**, so it could be a nice way for you to start practicing. 
 
 If you feel up to it, and to keep yourself in check, you can **contribute with exercises and solutions** that you come up with to this repository. Just make sure to follow the structure under `python-mastery` and add your exercise and `solution.py`, or add a new version of a solution in case the exercise already exists and you think your solution is different from the one(s) presented (e.g. `solution-03.py`).
 
 
-### 📚 Awesome Books
+## 📚 Awesome Books
 - [How to Think Like a Computer Scientist: Learning with Python 3](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf) 
 - [Python By Example: Learning to Program in 150 Challenges](https://library.samdu.uz/download/10759)
 
 
-### 😸 List of Repos
+## 😸 List of Repos
 - [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. Nevertheless, this challenge may take more than 100 days, so follow your own pace.
 - [learn-python](https://github.com/trekhleb/learn-python) - Playground and cheatsheet for learning Python. A collection of Python scripts that are split by topics and contain code examples with explanations!
 - [python-programming-exercises](https://github.com/zhiwehu/Python-programming-exercises
@@ -33,45 +33,55 @@ If you feel up to it, and to keep yourself in check, you can **contribute with e
 
 
 
-### 🏋🏽‍♀️ Exercises
+## 🏋🏽‍♀️ Exercises
 Please refer to [this folder](https://github.com/Data-Centric-AI-Community/awesome-python-for-data-science/tree/master/python-mastery/exercises).
 
 
-### 🛠 Projects
+## 🛠 Projects
 🚧 WIP
 
-### 🔗 Tutorials and Resources
+## 🔗 Tutorials and Resources
 
 - [Hitchhiker's Guide to Python](https://docs.python-guide.org) - Python best practices guidebook, written for humans.
 
----
-## 📊 Python for Data Science
 
-### ❓ Where to Start!
+---
+# 📊 Python for Data Science
+
+## ❓ Where to Start!
 To learn data science, the CRISP-DM is a good approach:
 
 [CRISP-DM methodology](https://www.datasciencecentral.com/userful-r-packages-that-aligns-with-the-crisp-dm-methodology/)
 
 1. Business/Problem Understanding
-2. 🆕 **Data Understanding:** Start with the EDA Projects in the **Exercises** section below! 🎉
-3. Data Preparation
+2. 🆕 **Data Understanding:** Check our EDA Projects in the **Exercises** section below! 🎉
+3. 🆕 **Data Preparation:** Follow the **Tutorials** below!
 4. Modelling
 5. Evaluation
 6. Deployment
 
 
-### 📚 Awesome Books
+## 📚 Awesome Books
 🚧 WIP
 
-### 😸 List of Repos
+## 😸 List of Repos
 
 - [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp): Free Data Engineering course!
 - [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp): Free MLOps course!
 
-### 👩🏽‍🏫 Tutorials
+## 👩🏽‍🏫 Tutorials
+
+### Data Understanding:
 - [01 - Understanding your data with descriptive statistics](tutorials/data_descriptive_statistics.ipynb)
-- [02 - Understanding your data visualization](tutorials/data_basic_visualization.ipynb)
+- [02 - Understanding your data with visualization](tutorials/data_basic_visualization.ipynb)
 - 03 - Prepare your Data For Machine Learning (👷‍♀️ coming soon!)
+
+### Data Preparation
+#### Dealing with Missing Data
+- [00 - Getting Started with Missing Data](tutorials/data_preparation/missing_data/README.md)
+- [01 - Introduction to Missing Data](tutorials/data_preparation/missing_data/missing_data_introduction.ipynb) 🎉
+- 02 - Missing Data Imputation with Statistical Methods (👷‍♀️ coming soon!)
+- 03 - Missing Data Imputation with Machine Learning Methods (👷‍♀️ coming soon!)
 
 ### 🏋🏽‍♀️ Exercises
 
