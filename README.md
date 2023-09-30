@@ -80,7 +80,7 @@ To learn data science, the CRISP-DM is a good approach:
 #### Dealing with Missing Data
 - [00 - Getting Started with Missing Data](tutorials/data_preparation/missing_data/README.md)
 - [01 - Introduction to Missing Data](tutorials/data_preparation/missing_data/missing_data_introduction.ipynb) 🎉
-- 02 - Missing Data Imputation with Statistical Methods (👷‍♀️ coming soon!)
+- [02 - Missing Data Imputation with Statistical Methods](tutorials/data_preperation/data_imputation_with_statistical_methods.ipynb) 🎉
 - 03 - Missing Data Imputation with Machine Learning Methods (👷‍♀️ coming soon!)
 
 ### 🏋🏽‍♀️ Exercises
