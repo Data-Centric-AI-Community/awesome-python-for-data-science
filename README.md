@@ -19,6 +19,11 @@ If you're serious about starting your journey as a Pythonista, then you need to 
 
 If you feel up to it, and to keep yourself in check, you can **contribute with exercises and solutions** that you come up with to this repository. Just make sure to follow the structure under `python-mastery` and add your exercise and `solution.py`, or add a new version of a solution in case the exercise already exists and you think your solution is different from the one(s) presented (e.g. `solution-03.py`).
 
+## 👩🏽‍🏫 Awesome Tutorials & Courses
+
+- 100 Page Python Tutorial ([PDF Version](https://www.linkedin.com/feed/update/urn:li:activity:7110202259518414850?utm_source=share&utm_medium=member_desktop) | At [Medium.com](https://adamrossnelson.medium.com/pro-data-science-python-tutorial-sequence-71904a51155e)) - Includes quizes, knowledge checks, + projects.
+- [Hitchhiker's Guide to Python](https://docs.python-guide.org) - Python best practices guidebook, written for humans.
+
 
 ## 📚 Awesome Books
 - [How to Think Like a Computer Scientist: Learning with Python 3](https://buildmedia.readthedocs.org/media/pdf/howtothink/latest/howtothink.pdf) 
@@ -32,18 +37,13 @@ If you feel up to it, and to keep yourself in check, you can **contribute with e
 ) - 100 Python challenging programming exercises (with solutions!)
 
 
-
 ## 🏋🏽‍♀️ Exercises
 Please refer to [this folder](https://github.com/Data-Centric-AI-Community/awesome-python-for-data-science/tree/master/python-mastery/exercises).
 
 
 ## 🛠 Projects
-🚧 WIP
-
-## 🔗 Tutorials and Resources
-
-- [Hitchhiker's Guide to Python](https://docs.python-guide.org) - Python best practices guidebook, written for humans.
-
+- [Create Your Own Data](https://adamrossnelson.medium.com/pro-python-tutorial-pt9-fictional-b7aeeafdba25) - Making fictional data will showcase what you’ve learned ways that will support your journey towards data science.
+- [Build a Python Guessing Game](https://adamrossnelson.medium.com/pro-python-tutorial-pt7-guessing-game-defa4c9414b7) - Classic introductory programming challenge.
 
 ---
 # 📊 Python for Data Science
