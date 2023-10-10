@@ -103,3 +103,12 @@ To learn data science, the CRISP-DM is a good approach:
 
 ## 👾 An Open Invitation
 **We are open to collaboration!** If you want to start contributing you only need to create a pull request with relevant resources 🚀 If you found these resources useful, please feel free to [join our Discord server.](https://discord.gg/mw7xjJ7b7s) We hope to say "Hi" on the other side! 👋
+
+A special shoutout to all contributors who keep pushing the boundaries of Data Science 👏
+
+<a href="https://github.com/Data-Centric-AI-Community/awesome-python-for-data-science/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Data-Centric-AI-Community/awesome-python-for-data-science" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
