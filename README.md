@@ -1,6 +1,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mw7xjJ7b7s)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://tiny.ydata.ai/dcai-community-github)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/data-centric-ai-community)
 
 
@@ -10,7 +10,10 @@
 
 This repository was created by our community members to build a curated list of awesome resources such books, tutorials, courses, open-source libraries, exercises and other materials that support Pythonistas in the making, and Pythonistas migrating into Data Science!
 
-**Please feel free to contribute to the repository with useful resources! You may also find us at our [Discord Server](https://discord.gg/mw7xjJ7b7s) to meet other learners, find co-developers or mentors, and engage in small study sessions!**
+# 🔨 Contributing to the Repo? 
+**Check our [CONTRIBUTING](https://github.com/Data-Centric-AI-Community/awesome-python-for-data-science/blob/main/CONTRIBUTING.md) guide!**
+
+💫 You can also find us at our [Discord Server](https://tiny.ydata.ai/dcai-community-github) to meet other learners, find co-developers or mentors, and engage in small [hands-on coding sessions](https://github.com/Data-Centric-AI-Community/code-with-me)!
 
 # 🐍 Python Mastery
 
@@ -90,7 +93,7 @@ To learn data science, the CRISP-DM is a good approach:
 
 ##### 🫂 How to contribute? 
 - Download the project and try to solve it at your own pace!
-- Ask as many questions as you like in our [discord channel #🐍ds-projects](http://discord.com/invite/mw7xjJ7b7s)
+- Ask as many questions as you like in our [discord channel #🐍ds-projects](https://tiny.ydata.ai/dcai-community-github)
 - Share your final project by creating a Pull Request! 👏
 
 
@@ -102,7 +105,7 @@ To learn data science, the CRISP-DM is a good approach:
 
 
 ## 👾 An Open Invitation
-**We are open to collaboration!** If you want to start contributing you only need to create a pull request with relevant resources 🚀 If you found these resources useful, please feel free to [join our Discord server.](https://discord.gg/mw7xjJ7b7s) We hope to say "Hi" on the other side! 👋
+**We are open to collaboration!** If you want to start contributing you only need to create a pull request with relevant resources 🚀 If you found these resources useful, please feel free to [join our Discord server.](https://tiny.ydata.ai/dcai-community-github) We hope to say "Hi" on the other side! 👋
 
 A special shoutout to all contributors who keep pushing the boundaries of Data Science 👏
 
