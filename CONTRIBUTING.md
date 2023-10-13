@@ -15,6 +15,8 @@ This documentation is a set of guidelines to help you contribute to this reposit
  
 These can include several areas, from machine learning algorithms to data preprocessing, data visualization, exploratory data analysis, and overall, all topics around Data-Centric AI.
 
+We look forward to your contributions! 🎉
+
 ## 🚀 How to Contribute
 
 1. Fork this repository
