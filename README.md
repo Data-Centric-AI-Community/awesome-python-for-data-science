@@ -88,7 +88,7 @@ To learn data science, the CRISP-DM is a good approach:
 - 03 - Missing Data Imputation with Machine Learning Methods (👷‍♀️ coming soon!)
 
 ### Data Transformation
-- [01 - Scaling Numerical Data](tutorials/data_preparation/scaling_numerical_data.ipynb)
+- [01 - Scaling Numerical Data](tutorials/scaling_numerical_data.ipynb)
 
 ### 🏋🏽‍♀️ Exercises
 
