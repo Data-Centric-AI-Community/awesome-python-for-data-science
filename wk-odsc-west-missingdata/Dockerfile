@@ -1,0 +1,11 @@
+FROM continuumio/miniconda3:22.11.1-alpine
+
+WORKDIR /workshop-odscwest-missingdata
+
+COPY environment.yaml environment.yaml
+RUN conda env create -f environment.yaml
+RUN conda clean -afy && \
+    find /opt/conda/ -follow -type f -name '*.a' -delete && \
+    find /opt/conda/ -follow -type f -name '*.js.map' -delete
+
+RUN echo "conda activate workshop-odscwest-missingdata" >> ~/.bashrc
