@@ -5,7 +5,7 @@ For that reason, **handling missing data** is one important step in **Data Prepa
 
 ## 🪐 Tutorials
 - [01 - Introduction to Missing Data](missing_data_introduction.ipynb)
-- [02 - Missing Data Imputation with Statistical Methods](../data_preparation/missing_data/data_imputation_with_statistical_methods.ipynb)
+- [02 - Missing Data Imputation with Statistical Methods](data_imputation_with_statistical_methods.ipynb)
 - 03 - Missing Data Imputation with Machine Learning Methods (👷‍♀️ coming soon!)
 
 ## 🔗 Resources
