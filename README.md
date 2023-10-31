@@ -91,7 +91,11 @@ To learn data science, the CRISP-DM is a good approach:
 - [01 - Scaling Numerical Data](tutorials/scale_numerical_data.ipynb)
 - [02 - Encoding Categorical Data](tutorials/encode_categorial_data.ipynb)
 
-### 🏋🏽‍♀️ Exercises
+### 💿 Datasets (for exploration)
+
+- [Diabetes](tutorials/data/diabetes.csv)
+- [Breast Cancer](tutorials/data/breast_cancer.csv)
+- [HCC Dataset](tutorials/data/hcc) | [Kaggle](https://www.kaggle.com/datasets/mrsantos/hcc-dataset)
 
 #### 🕵🏻 Exploratory Data Analysis
 1. [Olympic 124 Years Dataset](eda-projects/olympics): Exploring a dataset of the Olympic Games 
