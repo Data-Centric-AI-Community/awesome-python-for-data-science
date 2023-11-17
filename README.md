@@ -90,6 +90,7 @@ To learn data science, the CRISP-DM is a good approach:
 ### Data Transformation
 - [01 - Scaling Numerical Data](tutorials/scale_numerical_data.ipynb)
 - [02 - Encoding Categorical Data](tutorials/encode_categorial_data.ipynb)
+- [03 - One-hot encoding](encode categorical data\Howtodealwithcategoricaldata.ipynb)
 
 ### 💿 Datasets (for exploration)
 
