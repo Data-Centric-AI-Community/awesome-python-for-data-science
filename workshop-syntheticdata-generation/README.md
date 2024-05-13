@@ -2,7 +2,8 @@
 
 Get started in Google Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Centric-AI-Community/awesome-python-for-data-science/blob/main/workshop-syntheticdata-generation/)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Data-Centric-AI-Community/awesome-python-for-data-science/blob/main/workshop-syntheticdata-generation/Workshop_Synthetic_data_generation_How_and_why.ipynb)
+
 
 ## Synthetic data
 **Synthetic data** is artificially generated information that mimics the statistical properties of real-world data but does
