@@ -91,6 +91,16 @@ To learn data science, the CRISP-DM is a good approach:
 - [01 - Scaling Numerical Data](tutorials/scale_numerical_data.ipynb)
 - [02 - Encoding Categorical Data](tutorials/encode_categorial_data.ipynb)
 
+### Anomaly Detection
+
+- [01 - Introduction to Anomaly Detection](tutorials/anomaly-detection/anomaly_detection_tutorial.ipynb)
+  - What is anomaly detection?
+  - Real-world applications
+  - Isolation Forest
+  - Local Outlier Factor (LOF)
+  - One-Class SVM
+  - Evaluation and visualization
+  
 ### 💿 Datasets (for exploration)
 
 - [Diabetes](tutorials/data/diabetes.csv)
