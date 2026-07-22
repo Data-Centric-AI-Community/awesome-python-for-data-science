@@ -26,6 +26,7 @@ If you feel up to it, and to keep yourself in check, you can **contribute with e
 
 - 100 Page Python Tutorial ([PDF Version](https://www.linkedin.com/feed/update/urn:li:activity:7110202259518414850?utm_source=share&utm_medium=member_desktop) | At [Medium.com](https://adamrossnelson.medium.com/pro-data-science-python-tutorial-sequence-71904a51155e)) - Includes quizes, knowledge checks, + projects.
 - [Hitchhiker's Guide to Python](https://docs.python-guide.org) - Python best practices guidebook, written for humans.
+- [Python & Data Analysis Course](https://pyda-course.online) - Free, browser-based course (no installs needed) covering Python fundamentals through pandas/exploratory data analysis, with a guided track and a project-based track. Works offline once installed as a PWA; available in English, Arabic, Spanish, and French.
 
 
 ## 📚 Awesome Books
