@@ -107,6 +107,7 @@ To learn data science, the CRISP-DM is a good approach:
 
 
 ### 🔗 Resources
+- [From finite-element results to a small NumPy surrogate](https://haoming-luo.github.io/agentfem/examples/simulation_to_surrogate/) - A runnable AgentFEM mini-lab comparing two feature choices on ten simulated beam cases, with held-out predictions and residual plots. No finite-element solver installation is needed for the learning exercise.
 - [50 Data Analysis Projects with Python](https://amankharwal.medium.com/data-analysis-projects-with-python-a262a6f9e68c) - 50 Amazing Data Analysis Projects with Python: solved and explained.
 - [The Insane App: Data Science](https://www.theinsaneapp.com/data-science): Resources, GitHub repos, free books and cheatsheets on Data Science
 - [The Insane App: Machine Learning](https://www.theinsaneapp.com/machine-learning): Resources, GitHub repos, free books and cheatsheets on Machine Learning
