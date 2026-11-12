@@ -71,6 +71,7 @@ To learn data science, the CRISP-DM is a good approach:
 
 - [data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp): Free Data Engineering course!
 - [mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp): Free MLOps course!
+- [Tiny ML Lab](https://github.com/RishabhPande/tiny-ml-lab) - NumPy-only machine-learning workbooks with matching implementations, self-checks and numeric tests for working and failure cases.
 
 ## 👩🏽‍🏫 Tutorials
 
@@ -123,4 +124,3 @@ A special shoutout to all contributors who keep pushing the boundaries of Data S
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
-
